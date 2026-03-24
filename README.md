@@ -40,10 +40,14 @@
 - QEMU
 
 ### Concepts
+
+**Core CS**
 - Data Structures
 - Object-Oriented Programming
 - Systems Programming
 - Operating Systems Basics
+
+**Machine Learning**
 - Linear Regression
 - Gradient Descent
 - Feature Scaling (Normalization)
