@@ -1,12 +1,12 @@
 # Hi, I'm Ashdeep 👋
 
 🎓 Software Engineering Student at York University
-💻 Interested in systems programming, software development, and building practical software projects.
+💻 Software Engineering student focused on systems programming, machine learning fundamentals, and building practical software projects.
 
 ---
 
 ## 🔹 About Me
-- Interested in systems programming and full-stack development
+- Interested in Machine Learning, systems programming and full-stack development
 - Learning languages such as **C, C++, Java, JavaScript, Python, Kotlin, HTML and SQL**
 - Enjoy working with **Linux, Git, RISC-V and low-level systems**
 - Focused on writing clean, readable, and maintainable code
@@ -28,6 +28,10 @@
 
 ### Frameworks / Libraries
 - React
+- Pandas
+- NumPy
+- cikit-learn
+
 
 ### Tools
 - Git
@@ -40,6 +44,10 @@
 - Object-Oriented Programming
 - Systems Programming
 - Operating Systems Basics
+- Linear Regression
+- Gradient Descent
+- Feature Scaling (Normalization)
+- Model Evaluation (Mean Squared Error)
 
 ---
 
@@ -67,6 +75,16 @@ https://github.com/Ashdeep71/today-I-learned-app
 Technologies: React, JavaScript, Supabase, HTML, CSS, Netlify
 
 ---
+
+### House Price Prediction (Linear Regression from Scratch)
+
+- Implemented linear regression using gradient descent from scratch and compared results with scikit-learn.
+- Built cost function, gradients, and optimization manually to understand core ML concepts
+
+🔗 Repository  
+https://github.com/Ashdeep71/house-price-prediction
+
+Technologies: Python, NumPy, Pandas, Matplotlib
 
 ## 📫 Contact
 
