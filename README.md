@@ -1,74 +1,151 @@
 # Hi, I'm Ashdeep 👋
 
-🎓 Software Engineering Student at York University
-💻 Software Engineering student focused on systems programming, machine learning fundamentals, and building practical software projects.
+🎓 Software Engineering Student at York University  
+💻 Software Engineering student focused on Machine Learning, software development, and building practical projects.
 
 ---
 
 ## 🔹 About Me
-- Interested in Machine Learning, systems programming and full-stack development
-- Learning languages such as **C, C++, Java, JavaScript, Python, Kotlin, HTML and SQL**
-- Enjoy working with **Linux, Git, RISC-V and low-level systems**
-- Focused on writing clean, readable, and maintainable code
+
+- Software Engineering student at York University with a growing focus on Machine Learning and AI
+- Building projects using Python, NumPy, Pandas, scikit-learn, React, and JavaScript
+- Interested in supervised learning, model optimization, data preprocessing, and practical AI applications
+- Experience with systems programming, Linux, RISC-V, and low-level development using xv6
+- Focused on writing clean, maintainable, and readable code
 
 ---
 
-## 🛠 Skills
+# 🛠 Skills
 
-### Languages
+## Languages
+- Python
 - C
 - C++
 - Java
 - JavaScript
-- Python
+- TypeScript
 - SQL
 - Kotlin
 - HTML
 - CSS
 
-### Frameworks / Libraries
+---
+
+## Frameworks / Libraries
 - React
 - Pandas
 - NumPy
-- cikit-learn
+- Matplotlib
+- scikit-learn
 
+---
 
-### Tools
+## Tools & Technologies
 - Git
 - GitHub
 - Linux
 - QEMU
+- Supabase
+- Jupyter Notebook
 
-### Concepts
+---
 
-**Core CS**
-- Data Structures
-- Object-Oriented Programming
-- Systems Programming
-- Operating Systems Basics
+# 🧠 Machine Learning Concepts
 
-**Machine Learning**
 - Linear Regression
+- Logistic Regression
 - Gradient Descent
-- Feature Scaling (Normalization)
-- Model Evaluation (Mean Squared Error)
+- Cost Functions
+- Feature Scaling / Normalization
+- Train/Test Splitting
+- Model Evaluation
+- Mean Squared Error (MSE)
+- Classification
+- TF-IDF Vectorization
+- Data Preprocessing
+- Feature Engineering
+- Regularization Basics
+- Supervised Learning Fundamentals
 
 ---
 
-## ⚙️ Systems Programming
+# ⚙️ Systems Programming
 
-- Implemented system calls in the **xv6 operating system**
-- Worked with **RISC-V architecture**
-- Compiled and ran xv6 using **QEMU**
+- Implemented system calls in the xv6 operating system
+- Worked with RISC-V architecture
+- Compiled and ran xv6 using QEMU
 - Explored process management and kernel-level programming
+- Experience working in Linux-based development environments
 
 ---
 
+# 🚀 Projects
 
-## 🚀 Projects
+## 🧠 Spam Email Classifier
 
-### Today I Learned
-React + Supabase web application where users can share and vote on interesting facts.
+Machine learning project that classifies spam and non-spam emails using natural language processing techniques.
+
+### Features
+- Implemented TF-IDF vectorization from scratch
+- Built logistic regression using NumPy
+- Compared custom implementation with scikit-learn
+- Performed text preprocessing and feature extraction
+
+### Technologies
+Python, NumPy, Pandas, scikit-learn
+
+🔗 Repository  
+https://github.com/Ashdeep71/spam-email-classifier
+
+---
+
+## 📈 House Price Prediction — Linear Regression from Scratch
+
+Machine learning project implementing linear regression and gradient descent from scratch to better understand core ML concepts.
+
+### Features
+- Built cost functions and gradients manually
+- Implemented gradient descent optimization
+- Applied feature scaling and model evaluation
+- Compared results with scikit-learn
+
+### Technologies
+Python, NumPy, Pandas, Matplotlib, scikit-learn
+
+🔗 Repository  
+https://github.com/Ashdeep71/house-price-prediction
+
+---
+
+## 🤖 AI Study Assistant
+
+AI-powered study assistant application designed to help students interact with educational content more efficiently.
+
+### Features
+- Interactive AI-based learning assistance
+- Prompt-based study support
+- Web application interface
+
+### Technologies
+Python, Streamlit
+
+🔗 Repository  
+https://github.com/Ashdeep71/AI-study-Assistant
+
+---
+
+## 🌐 Today I Learned
+
+Full-stack React + Supabase web application where users can share and vote on interesting facts.
+
+### Features
+- Create and share facts
+- Voting system
+- Dynamic UI with React
+- Backend integration using Supabase
+
+### Technologies
+React, JavaScript, Supabase, HTML, CSS, Netlify
 
 🔗 Live Demo  
 https://til-facts-app.netlify.app
@@ -76,24 +153,19 @@ https://til-facts-app.netlify.app
 📂 Repository  
 https://github.com/Ashdeep71/today-I-learned-app
 
-Technologies: React, JavaScript, Supabase, HTML, CSS, Netlify
+---
+
+# 📚 Currently Learning
+
+- Machine Learning specialization concepts
+- Classification and model evaluation
+- Neural network fundamentals
+- Data structures and algorithms
+- Full-stack application development
 
 ---
 
-### House Price Prediction (Linear Regression from Scratch)
+# 📫 Contact
 
-- Implemented linear regression using gradient descent from scratch and compared results with scikit-learn.
-- Built cost function, gradients, and optimization manually to understand core ML concepts
-
-🔗 Repository  
-https://github.com/Ashdeep71/house-price-prediction
-
-Technologies: Python, NumPy, Pandas, Matplotlib
-
-## 📫 Contact
-
-GitHub:  
+## GitHub
 https://github.com/Ashdeep71
-
-
----
