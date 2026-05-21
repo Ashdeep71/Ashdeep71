@@ -1,15 +1,16 @@
 # Hi, I'm Ashdeep 👋
 
 🎓 Software Engineering Student at York University  
-💻 Software Engineering student focused on Machine Learning, software development, and building practical projects.
+💻 Software Engineering student focused on Machine Learning, Deep Learning, software development, and building practical AI applications.
 
 ---
 
-## 🔹 About Me
+# 🔹 About Me
 
 - Software Engineering student at York University with a growing focus on Machine Learning and AI
-- Building projects using Python, NumPy, Pandas, scikit-learn, React, and JavaScript
-- Interested in supervised learning, model optimization, data preprocessing, and practical AI applications
+- Interested in deep learning, computer vision, and practical AI applications
+- Building projects using Python, TensorFlow, NumPy, Pandas, scikit-learn, React, and JavaScript
+- Interested in supervised learning, transfer learning, model optimization, and data preprocessing
 - Experience with systems programming, Linux, RISC-V, and low-level development using xv6
 - Focused on writing clean, maintainable, and readable code
 
@@ -32,11 +33,14 @@
 ---
 
 ## Frameworks / Libraries
-- React
+- TensorFlow
+- Keras
+- scikit-learn
 - Pandas
 - NumPy
 - Matplotlib
-- scikit-learn
+- Streamlit
+- React
 
 ---
 
@@ -50,7 +54,7 @@
 
 ---
 
-# 🧠 Machine Learning Concepts
+# 🧠 Machine Learning & AI Concepts
 
 - Linear Regression
 - Logistic Regression
@@ -59,13 +63,19 @@
 - Feature Scaling / Normalization
 - Train/Test Splitting
 - Model Evaluation
-- Mean Squared Error (MSE)
 - Classification
 - TF-IDF Vectorization
 - Data Preprocessing
 - Feature Engineering
 - Regularization Basics
 - Supervised Learning Fundamentals
+- Convolutional Neural Networks (CNNs)
+- Transfer Learning
+- Image Classification
+- Data Augmentation
+- Validation & Overfitting
+- Softmax Classification
+- Deep Learning Fundamentals
 
 ---
 
@@ -80,6 +90,26 @@
 ---
 
 # 🚀 Projects
+
+## 🌿 Plant Disease Classifier
+
+Deep learning computer vision project that classifies potato leaf diseases using Convolutional Neural Networks and transfer learning with MobileNetV2.
+
+### Features
+- Built custom CNN architecture using TensorFlow/Keras
+- Implemented transfer learning using MobileNetV2
+- Applied image preprocessing and data augmentation
+- Visualized training/validation accuracy and loss
+- Built an interactive Streamlit application for image predictions
+- Added confidence score predictions for uploaded leaf images
+
+### Technologies
+Python, TensorFlow, Keras, NumPy, Matplotlib, Streamlit
+
+🔗 Repository  
+https://github.com/Ashdeep71/plant-disease-classifier
+
+---
 
 ## 🧠 Spam Email Classifier
 
@@ -157,11 +187,12 @@ https://github.com/Ashdeep71/today-I-learned-app
 
 # 📚 Currently Learning
 
-- Machine Learning specialization concepts
+- Deep learning and transfer learning
+- Computer vision with CNNs
+- Neural networks and TensorFlow
 - Classification and model evaluation
-- Neural network fundamentals
 - Data structures and algorithms
-- Full-stack application development
+- Software engineering fundamentals
 
 ---
 
