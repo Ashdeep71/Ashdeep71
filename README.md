@@ -14,9 +14,10 @@
 ## 🔹 About Me
 
 - 🎓 Software Engineering student at York University, focused on Machine Learning and applied AI
-- 🔬 Interested in deep learning, computer vision, and retrieval-augmented generation (RAG)
-- 🛠️ Currently building projects with Python, TensorFlow, LangChain, React, and FastAPI
-- ⚙️ Also curious about the lower-level side of computing — systems programming, Linux, and RISC-V
+- 💼 ML Engineer Intern at Pheneex Solutions, building LLM-powered RAG pipelines and agentic AI workflows for a clinical decision-support system
+- 🤖 Interested in generative AI, prompt engineering, and turning unstructured data into grounded, actionable outputs
+- 🔬 Also into deep learning and computer vision — CNNs, transfer learning, model evaluation
+- ⚙️ Curious about the lower-level side of computing too — systems programming, Linux, and RISC-V
 - 📈 Focused on writing clean, well-tested, and readable code
 
 ---
@@ -125,7 +126,7 @@ A prompt-based AI study assistant to help students interact with educational con
 
 ## 📚 Currently Learning
 
-Deep learning & transfer learning · Computer vision with CNNs · Data structures & algorithms · Software engineering fundamentals
+Generative AI & LLM applications · Retrieval-Augmented Generation (RAG) · Agentic AI workflows · Data structures & algorithms · Software engineering fundamentals
 
 ---
 
