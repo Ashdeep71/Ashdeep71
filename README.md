@@ -1,202 +1,134 @@
-# Hi, I'm Ashdeep 👋
+<h1 align="center">Hi, I'm Ashdeep 👋</h1>
 
-🎓 Software Engineering Student at York University  
-💻 Software Engineering student focused on Machine Learning, Deep Learning, software development, and building practical AI applications.
+<p align="center">
+  Software Engineering Student @ York University · Building practical AI &amp; Machine Learning applications
+</p>
 
----
-
-# 🔹 About Me
-
-- Software Engineering student at York University with a growing focus on Machine Learning and AI
-- Interested in deep learning, computer vision, and practical AI applications
-- Building projects using Python, TensorFlow, NumPy, Pandas, scikit-learn, React, and JavaScript
-- Interested in supervised learning, transfer learning, model optimization, and data preprocessing
-- Experience with systems programming, Linux, RISC-V, and low-level development using xv6
-- Focused on writing clean, maintainable, and readable code
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashdeep-singh-14b661367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashdeepsingh81@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-# 🛠 Skills
+## 🔹 About Me
 
-## Languages
-- Python
-- C
-- C++
-- Java
-- JavaScript
-- TypeScript
-- SQL
-- Kotlin
-- HTML
-- CSS
+- 🎓 Software Engineering student at York University, focused on Machine Learning and applied AI
+- 🔬 Interested in deep learning, computer vision, and retrieval-augmented generation (RAG)
+- 🛠️ Currently building projects with Python, TensorFlow, LangChain, React, and FastAPI
+- ⚙️ Also curious about the lower-level side of computing — systems programming, Linux, and RISC-V
+- 📈 Focused on writing clean, well-tested, and readable code
 
 ---
 
-## Frameworks / Libraries
-- TensorFlow
-- Keras
-- scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Streamlit
-- React
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
-## Tools & Technologies
-- Git
-- GitHub
-- Linux
-- QEMU
-- Supabase
-- Jupyter Notebook
+## 🧠 Machine Learning & AI Focus
+
+`Linear/Logistic Regression` `Gradient Descent` `Feature Engineering` `TF-IDF Vectorization` `CNNs` `Transfer Learning` `Data Augmentation` `Model Evaluation` `RAG` `Prompt Engineering` `LLM APIs`
+
+## ⚙️ Systems Programming
+
+Implemented system calls and explored kernel-level programming in the **xv6** operating system on **RISC-V**, compiled and run via **QEMU** — hands-on experience with process management in a Linux-based development environment.
 
 ---
 
-# 🧠 Machine Learning & AI Concepts
+## 🚀 Featured Projects
 
-- Linear Regression
-- Logistic Regression
-- Gradient Descent
-- Cost Functions
-- Feature Scaling / Normalization
-- Train/Test Splitting
-- Model Evaluation
-- Classification
-- TF-IDF Vectorization
-- Data Preprocessing
-- Feature Engineering
-- Regularization Basics
-- Supervised Learning Fundamentals
-- Convolutional Neural Networks (CNNs)
-- Transfer Learning
-- Image Classification
-- Data Augmentation
-- Validation & Overfitting
-- Softmax Classification
-- Deep Learning Fundamentals
+### 🔎 [Full Stack AI Document Search System](https://github.com/Ashdeep71/ai-document-search)
+A full-stack RAG application for PDF-based question answering.
+- Built with **LangChain**, **OpenAI embeddings**, **FAISS**, **FastAPI**, and **React**
+- Implements document chunking, semantic search, and context retrieval with **source citations**
+- REST API + React chat interface for uploads, conversation history, and source display
+
+`Python` `FastAPI` `LangChain` `FAISS` `React`
 
 ---
 
-# ⚙️ Systems Programming
+### 🌿 [Plant Disease Classifier](https://github.com/Ashdeep71/plant-disease-classifier)
+A deep learning computer vision system that classifies potato leaf diseases.
+- Custom **CNN** architecture plus **MobileNetV2** transfer learning
+- Image preprocessing and data augmentation to reduce overfitting
+- Interactive **Streamlit** app returning real-time predictions with confidence scores
 
-- Implemented system calls in the xv6 operating system
-- Worked with RISC-V architecture
-- Compiled and ran xv6 using QEMU
-- Explored process management and kernel-level programming
-- Experience working in Linux-based development environments
-
----
-
-# 🚀 Projects
-
-## 🌿 Plant Disease Classifier
-
-Deep learning computer vision project that classifies potato leaf diseases using Convolutional Neural Networks and transfer learning with MobileNetV2.
-
-### Features
-- Built custom CNN architecture using TensorFlow/Keras
-- Implemented transfer learning using MobileNetV2
-- Applied image preprocessing and data augmentation
-- Visualized training/validation accuracy and loss
-- Built an interactive Streamlit application for image predictions
-- Added confidence score predictions for uploaded leaf images
-
-### Technologies
-Python, TensorFlow, Keras, NumPy, Matplotlib, Streamlit
-
-🔗 Repository  
-https://github.com/Ashdeep71/plant-disease-classifier
+`Python` `TensorFlow` `Keras` `Streamlit`
 
 ---
 
-## 🧠 Spam Email Classifier
+### 🧠 [Spam Email Classifier](https://github.com/Ashdeep71/spam-email-classifier)
+An NLP-based spam classifier built to understand the fundamentals from the ground up.
+- **TF-IDF vectorization** implemented from scratch
+- **Logistic regression** implemented from scratch using NumPy, benchmarked against scikit-learn
+- Text preprocessing and feature extraction pipeline
 
-Machine learning project that classifies spam and non-spam emails using natural language processing techniques.
-
-### Features
-- Implemented TF-IDF vectorization from scratch
-- Built logistic regression using NumPy
-- Compared custom implementation with scikit-learn
-- Performed text preprocessing and feature extraction
-
-### Technologies
-Python, NumPy, Pandas, scikit-learn
-
-🔗 Repository  
-https://github.com/Ashdeep71/spam-email-classifier
+`Python` `NumPy` `Pandas` `scikit-learn`
 
 ---
 
-## 📈 House Price Prediction — Linear Regression from Scratch
+### 📈 [House Price Prediction](https://github.com/Ashdeep71/house-price-prediction)
+Linear regression and gradient descent built from scratch to understand core ML mechanics.
+- Manually implemented cost functions and gradients
+- Feature scaling and model evaluation, compared against scikit-learn
 
-Machine learning project implementing linear regression and gradient descent from scratch to better understand core ML concepts.
-
-### Features
-- Built cost functions and gradients manually
-- Implemented gradient descent optimization
-- Applied feature scaling and model evaluation
-- Compared results with scikit-learn
-
-### Technologies
-Python, NumPy, Pandas, Matplotlib, scikit-learn
-
-🔗 Repository  
-https://github.com/Ashdeep71/house-price-prediction
+`Python` `NumPy` `Pandas` `Matplotlib` `scikit-learn`
 
 ---
 
-## 🤖 AI Study Assistant
+### 🌐 [Today I Learned](https://github.com/Ashdeep71/today-I-learned-app) · [Live Demo](https://til-facts-app.netlify.app)
+A full-stack web app where users share and vote on interesting facts.
+- Dynamic voting system with real-time UI updates
+- **Supabase** (PostgreSQL) backend, deployed live on **Netlify**
 
-AI-powered study assistant application designed to help students interact with educational content more efficiently.
-
-### Features
-- Interactive AI-based learning assistance
-- Prompt-based study support
-- Web application interface
-
-### Technologies
-Python, Streamlit
-
-🔗 Repository  
-https://github.com/Ashdeep71/AI-study-Assistant
+`React` `JavaScript` `Supabase` `Netlify`
 
 ---
 
-## 🌐 Today I Learned
+### 🤖 [AI Study Assistant](https://github.com/Ashdeep71/AI-study-Assistant)
+A prompt-based AI study assistant to help students interact with educational content.
 
-Full-stack React + Supabase web application where users can share and vote on interesting facts.
-
-### Features
-- Create and share facts
-- Voting system
-- Dynamic UI with React
-- Backend integration using Supabase
-
-### Technologies
-React, JavaScript, Supabase, HTML, CSS, Netlify
-
-🔗 Live Demo  
-https://til-facts-app.netlify.app
-
-📂 Repository  
-https://github.com/Ashdeep71/today-I-learned-app
+`Python` `Streamlit`
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- Deep learning and transfer learning
-- Computer vision with CNNs
-- Neural networks and TensorFlow
-- Classification and model evaluation
-- Data structures and algorithms
-- Software engineering fundamentals
+Deep learning & transfer learning · Computer vision with CNNs · Data structures & algorithms · Software engineering fundamentals
 
 ---
 
-# 📫 Contact
-
-## GitHub
-https://github.com/Ashdeep71
+<p align="center">
+  📫 Reach me at <a href="mailto:ashdeepsingh81@gmail.com">ashdeepsingh81@gmail.com</a> · <a href="https://www.linkedin.com/in/ashdeep-singh-14b661367/">LinkedIn</a>
+</p>
